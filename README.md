@@ -76,8 +76,6 @@ I recently graduated in Computer Science and enjoy working on REST APIs, databas
 - Advanced FastAPI patterns
 - Clean Architecture
 - Backend security best practices
-- Microservices concepts
-- DevOps and deployment workflows
 
 ---
 
